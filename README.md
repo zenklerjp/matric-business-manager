@@ -41,4 +41,20 @@ Looking back at this as a third-year CS student:
 
 ## Screenshots
 
-*Coming soon.*
+Sample data only. Personal details are blurred.
+
+| Login | Main menu |
+|---|---|
+| ![Login](screenshots/01-login.png) | ![Main menu](screenshots/02-main-menu.png) |
+
+**Booking calendar**
+
+![Calendar](screenshots/03-calendar.png)
+
+**Payment history with date-range and reference search**
+
+![Payments](screenshots/04-payments.png)
+
+**Employee reports with bar and pie charts**
+
+![Employee reports](screenshots/05-employee-reports.png)
